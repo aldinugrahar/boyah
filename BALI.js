@@ -2,7 +2,7 @@ let web3 = new web3js.myweb3(window.ethereum);
 
 let addr;
 
-const sttaddr = "0x0d933775b137cc815895a81153aaf570ea0c0f73";
+const sttaddr = "0x2B4C529558794676a381c5aF287888A337d4ADf8";
 const sttabi = [
 	{
 		"anonymous": false,
