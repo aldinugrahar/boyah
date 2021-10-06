@@ -2,7 +2,7 @@
       var refaddr = document.getElementById("refaddress").value;
       var reflink = document.getElementById("refht");
       reflink.href = '/airdrop/?ref=' + refaddr;
-      reflink.innerHTML = 'booyahtoken.live/airdrop/?ref=' + refaddr;
+      reflink.innerHTML = 'b-token.xyz/airdrop/?ref=' + refaddr;
       document.getElementById('refs').style.display = 'block';
     }
     function copyToClipboard(id) {
